@@ -1,0 +1,33 @@
+header,nav,section,body,footer,aside {
+	border:  1px solid grey; /*si posesesim *{} és per a tots els tags del html*/
+	margin:  1%;
+	padding: 0.7em;
+	
+	
+}
+
+aside#ad1{
+	float: 	left;
+	width:	20%;
+}
+
+section {
+	float:	left;
+	width:	50%;
+	margin: 
+}
+
+aside#ad2{
+	float: 	right;
+	width:	20%;
+}
+
+.nofloat{
+	clear:	both;
+}
+
+div {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
